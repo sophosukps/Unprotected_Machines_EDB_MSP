@@ -1,1 +1,2 @@
-# Unprotected_Machines-EDB-MSP-
+# Unprotected_Machines_EDB-MSP
+Please follow the PDF guide
